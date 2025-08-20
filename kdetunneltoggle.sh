@@ -1,5 +1,4 @@
 #!/bin/bash
-# apptunneltoggle.sh
 # Toggles an application between VPN and split-tunnel mode (excluded from VPN)
 
 # Prompt for the application name
